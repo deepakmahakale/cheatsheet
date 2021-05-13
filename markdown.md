@@ -1,3 +1,11 @@
+---
+layout: default
+title: Markdown
+nav_order: 2
+description: Markdown
+permalink: /markdown
+---
+
 # Markdown
 
 ### Console output 
