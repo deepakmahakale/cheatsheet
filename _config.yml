@@ -1,0 +1,13 @@
+remote_theme: pmarsceill/just-the-docs
+title: CheatSheet
+description: The ultimate cheetsheet for everything
+
+# Theme specific config
+# ==============================================================================
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: true
+gh_edit_link_text: Edit this page on GitHub.
+gh_edit_repository: https://github.com/deepakmahakale/cheatsheet
+gh_edit_branch: master
+gh_edit_view_mode: tree
+# ==============================================================================
